@@ -4,6 +4,7 @@ import ScrollDown from "@/components/scrollDown";
 import React from "react";
 import {Hero} from "@/components/hero";
 import {Header} from "@/components/header";
+import Link from "next/link";
 
 // const inter = Inter({ subsets: ['latin'] })
 
