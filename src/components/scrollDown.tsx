@@ -4,7 +4,7 @@ import Lottie from 'react-lottie-player'
 // Alternatively:
 // import Lottie from 'react-lottie-player/dist/LottiePlayerLight'
 
-import lottieJson from '../public/scrollDown.json'
+import lottieJson from '../../public/scrollDown.json'
 
 export default function ScrollDown() {
     return (

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Animation from "./animation";
+import Animation from "@/components/animation";
 
 export function Hero(){
     return (

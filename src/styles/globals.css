@@ -1,4 +1,4 @@
-@tailwind base;
+/*@tailwind base;*/
 @tailwind components;
 @tailwind utilities;
 
@@ -25,3 +25,13 @@
 /*    )*/
 /*    rgb(var(--background-start-rgb));*/
 /*}*/
+/* globals.css */
+
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Roboto&display=swap');
+}
+
+body {
+    font-family: 'Roboto',' sans-serif';
+}
